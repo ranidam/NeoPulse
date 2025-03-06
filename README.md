@@ -12,7 +12,7 @@
 Clone this repository and install the dependencies:
 
 ```sh
-git clone https://github.com/yourusername/OmniAssistant.git
+git clone https://github.com/ranidam/NeoPulse.git
 cd OmniAssistant
 npm install
 ```
