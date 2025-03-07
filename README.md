@@ -16,7 +16,15 @@ git clone https://github.com/ranidam/NeoPulse.git
 cd NeoPulse
 npm install
 ```
+## Environment Variables
+Create a .env file in the root directory and add the following variables:
 
+```sh
+CURRENTS_API_KEY=your_news_api_key_here
+WEATHER_API_KEY=your_weather_api_key_here
+```
+Get Weather_API_KEY : https://www.weatherapi.com
+Get Current_API_KEY: https://currentsapi.services/en
 ## Usage
 
 Run the API using:
